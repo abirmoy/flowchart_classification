@@ -1,0 +1,14 @@
+flowchart_vit.pth
+dataset.zip
+dataset/train/flowchart/*.png
+dataset/train/flowchart/*.jpg
+dataset/train/flowchart/*.jpeg
+dataset/train/non_flowchart/*.png
+dataset/train/non_flowchart/*.jpg
+dataset/train/non_flowchart/*.jpeg
+dataset/val/flowchart/*.png
+dataset/val/flowchart/*.jpg
+dataset/val/flowchart/*.jpeg
+dataset/val/non_flowchart/*.png
+dataset/val/non_flowchart/*.jpeg
+dataset/val/non_flowchart/*.jpg
