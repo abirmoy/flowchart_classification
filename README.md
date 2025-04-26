@@ -26,4 +26,4 @@ This model is designed for:
 
 
 ## Huggingface
-[Link] (https://huggingface.co/abirmoy/flowchart_vit.pth)
+[Link](https://huggingface.co/abirmoy/flowchart_vit.pth)
