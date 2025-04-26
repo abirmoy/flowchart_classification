@@ -23,3 +23,7 @@ This is a Vision Transformer (ViT) model fine-tuned for binary classification of
 This model is designed for:
 
 - Classifying if given image is a flowchart or not
+
+
+## Huggingface
+[Link] (https://huggingface.co/abirmoy/flowchart_vit.pth)
