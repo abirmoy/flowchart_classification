@@ -12,3 +12,4 @@ dataset/val/flowchart/*.jpeg
 dataset/val/non_flowchart/*.png
 dataset/val/non_flowchart/*.jpeg
 dataset/val/non_flowchart/*.jpg
+.gitignore

@@ -16,7 +16,7 @@ This is a Vision Transformer (ViT) model fine-tuned for binary classification of
 - **Model type:** Vision Transformer (ViT-Base)
 - **Input:** 224x224 RGB images
 - **Output:** Binary classification (flowchart/non-flowchart)
-- **Training data:** Custom dataset of 10,000+ flowchart/non-flowchart images
+- **Training data:** Custom dataset of ~600 flowchart/non-flowchart images
 
 ## Intended Uses
 
@@ -26,4 +26,8 @@ This model is designed for:
 
 
 ## Huggingface
-[Link](https://huggingface.co/abirmoy/flowchart_vit.pth)
+[Model](https://huggingface.co/abirmoy/flowchart_vit.pth/blob/main/flowchart_vit.pth)
+
+
+## Dataset
+[Download](https://huggingface.co/abirmoy/flowchart_vit.pth/blob/main/dataset.zip)
